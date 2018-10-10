@@ -1,11 +1,12 @@
-# ![Simluation residente](images/palm128.png)  Descuento de Residente - Chrome extension
+# ![Simluation residente](images/palm128.png)  Descuento de Residente - Chrome extension - beta
 
-Esta extensión de Chrome pretende ayudar en la búsqueda de vuelos en metabuscadores, actualmente en Skyscanner, donde normalmente no se aplica el descuento de residente Canario o Balear (75%)
+Esta extensión de Chrome pretende ayudar en la búsqueda de vuelos en metabuscadores, actualmente en Skyscanner, donde normalmente no se aplica el descuento de residente Canario o Balear (75%).
 Cada compañía aplica el descuento de manera diferente, y en metasearchs como Skyscanner o google flights ni si quiera existe esa optión.
 
-Importante: Recuerda que esto es sólo una simulación aplicando directamente el descuento del 75% sobre el precio mostrado en el listado principal. Para ver el precio final aplicando el descuento de residente, deberás seleccionar la casilla de descuento de residente en la búsqueda final en la página de la compañía final.
+## Importante: 
+Recuerda que esto es sólo una simulación aplicando directamente el descuento del 75% sobre el precio mostrado en el listado principal. Para ver el precio final aplicando el descuento de residente, deberás seleccionar la casilla de descuento de residente en la búsqueda final en la página de la compañía final.
 
-1. Realiza una búsqueda normal
+1. Realiza una búsqueda normal en Skyscanner entre Canarias/Baleares y Península
 
 ![Busca un vuelvo entre Canarias/Baleares y Península](images/busqueda1.png) 
 
