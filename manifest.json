@@ -2,14 +2,13 @@
   "name": "Descuento de residente",
   "version": "1.0",
   "description": "Simula el descuento de residente en tu Metasearch!",
-  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "permissions": ["activeTab", "declarativeContent", "tabs"],
   "background": {
     "scripts": ["discount.js"],
     "persistent": false
   },
   "page_action": {
     "default_title": "Simulación descuento de residente",
-    "default_popup": "popup.html",
     "default_icon": {
       "16": "images/palm16.png",
       "32": "images/palm32.png",
