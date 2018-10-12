@@ -34,10 +34,3 @@ https://www.easyviajar.com/informacion-practica/todo-sobre-las-tasas-aereas-19
 2. Haz click en la extensión con este icono ![Simluation residente](images/palm16.png) para simular el coste aplicando el descuento.
 
 ![Precio simulado](images/busqueda2.png) 
-
-TODOs:
-
-1. Eliminar el popup para que la simulación aparezca directamente.
-2. Desactivar la simulación al volver a hacer click en la extensión
-
-
